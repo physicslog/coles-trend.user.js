@@ -13,3 +13,5 @@ A userscript for the Coles Trend Chrome Plugin which allows to support it in **S
 3. To sync this userscript across all your Apple devices, create a folder in iCloud Drive and paste the userscript there. Then link this folder to the userscript manager.
 
 Done!
+
+> Find the `woolworths-trend.user.js` at [here](https://github.com/physicslog/woolworths-trend.user.js).
