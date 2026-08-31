@@ -1,13 +1,16 @@
 // ==UserScript==
 // @name       Coles Trend
+// @version     1.0
 // @description A simple extension that adds historical price trends to coles.com.au
-// @author      Data Holdings Group & Userscript made by Damodar Rajbhandari
+// @author      Originally by Data Holdings Group & Userscript made by Damodar Rajbhandari
 // @match       *://*.coles.com.au/*
 // @require     https://unpkg.com/chart.js@4.4.6/dist/chart.umd.js
 // @require     https://unpkg.com/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.js
 // @run-at document-start
 // @grant       GM_xmlhttpRequest
 // @connect     https://data-holdings-fastapi-lp22d.ondigitalocean.app
+// @downloadURL https://github.com/physicslog/coles-trend.user.js/raw/refs/heads/main/coles-trend.user.js
+// @updateURL   https://github.com/physicslog/coles-trend.user.js/raw/refs/heads/main/coles-trend.user.js
 // ==/UserScript==
 
 /* file: dhg-styles.css*/
